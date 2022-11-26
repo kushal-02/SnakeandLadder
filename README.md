@@ -1,6 +1,6 @@
 # SnakeandLadder
 
-It is a Multiplayer game where they get everytime one number between 1 to 6 if coin goes at the 100th position then the player will win.
+It is a Multiplayer game where you get everytime one number between 1 to 6 if coin goes at the 100th position then the player will win.
 
  * used the JavaFx framework
  * the logic is used using the hashmap
